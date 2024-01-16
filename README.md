@@ -14,14 +14,14 @@ Tehtävänä on rakentaa sivulle testimonials-osio ruudukkoon design-suunnitelma
 
 ## Mistä kaikki löytyy?
 
-Löydät tehtävän suunnitelmat `/design` kansiosta. Siellä on mobiilinäkymä ja desktopnäkymät erikseen. Tarkoitus on toteuttaa molemmat. 
+Löydät tehtävän suunnitelmat [`/design`](./design) kansiosta. Siellä on mobiilinäkymä ja desktopnäkymät erikseen. Tarkoitus on toteuttaa molemmat. 
 
-Muutamia tyyliohjeita löytyy `tyyliopas.md` tiedostosta, mutta suurimman osan muotoiluista saat arvioida itse. 
+Muutamia tyyliohjeita löytyy [`tyyliopas.md`](.tyyliopas.md) tiedostosta, mutta suurimman osan muotoiluista saat arvioida itse. 
 Eli päätä itse mitkä ovat sopivat arvot esim. `font-size`, `padding` ja `margin` määrittelyille, niin että lopputulos vastaa tavoitetta.  
 
-Tarvittavat kuvat ovat `/images` kansiosta. Ne ovat valmiita käyttöön.
+Tarvittavat kuvat ovat [`/images`](./images/) kansiosta. Ne ovat valmiita käyttöön.
 
-`index.html` tiedostossa on kaikki tarvittava teksti, mutta sitä ei ole jäsennelty järkeviin osiin.
+[`index.html`](.index.html) tiedostossa on kaikki tarvittava teksti, mutta sitä ei ole jäsennelty järkeviin osiin.
 
 ## Projektin rakentaminen
 
