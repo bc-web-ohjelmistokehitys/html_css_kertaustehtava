@@ -13,7 +13,7 @@ Suunnitelma on tehty seuraaville leveyksille:
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
 
-## Värit
+## Käytetyt värit
 
 ### Daniel
 - Taustaväri: Violetti hsl(263, 55%, 52%)
@@ -36,8 +36,8 @@ Suunnitelma on tehty seuraaville leveyksille:
 - Teksti: Tumma siniharmaa hsl(217, 19%, 35%)
 
 
-Kommentteja tekstien väreihin:
+### Huomiota tekstien väreistä:
 
-1. "Verified Graduate" käyttää samaa väriä kuin henkilön nimessä on käytetty, mutta 50% opacity määrittelyllä.
-2. Arvioinnit lainausmerkkien sisällä käyttävät myös samaa väriä, mutta 70% opacity määrittelyllä.
+1. "Verified Graduate" käyttää samaa väriä kuin henkilön nimessä on käytetty, mutta **50% opacity** määrittelyllä.
+2. Arvioinnit lainausmerkkien sisällä käyttävät myös samaa väriä, mutta **70% opacity** määrittelyllä.
   
