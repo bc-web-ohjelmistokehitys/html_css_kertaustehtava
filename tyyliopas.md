@@ -2,28 +2,9 @@
 
 Suunnitelma on tehty seuraaville leveyksille:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Mobile:  375px - 768px
+- Desktop: 1440px asti
 
-## Värit
-
-### Päävärit
-
-Violetti: hsl(263, 55%, 52%)
-Tumma siniharmaa: hsl(217, 19%, 35%)
-Tummempi sininen: hsl(219, 29%, 14%)
-Valkoinen: hsl(0, 0%, 100%)
-
-### Neutraalit värit
-
-Vaalean harmaa: hsl(0, 0%, 81%)
-Vaalea siniharmaa: hsl(210, 46%, 95%)
-
-Kommentteja tekstien väreihin:
-
-1. "Verified Graduate" käyttää samaa väriä kuin henkilön nimessä on käytetty, mutta 50% opacity määrittelyllä.
-2. Arvioinnit lainausmerkkien sisällä käyttävät myös samaa väriä, mutta 70% opacity määrittelyllä.
-  
 
 ## Typographia
 
@@ -31,3 +12,32 @@ Kommentteja tekstien väreihin:
 - Font size: 13px
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
+
+## Värit
+
+### Daniel
+- Taustaväri: Violetti hsl(263, 55%, 52%)
+- Teksti: Vaalean harmaa hsl(0, 0%, 81%)
+
+### Jonathan
+- Taustaväri: Tumma siniharmaa hsl(217, 19%, 35%)
+- Teksti: Vaalea siniharmaa hsl(210, 46%, 95%)
+
+### Jeanette
+- Taustaväri: Valkoinen hsl(0, 0%, 100%)
+- Teksti: Tumma siniharmaa hsl(217, 19%, 35%)
+  
+### Patrick
+- Taustaväri: Tummansininen hsl(219, 29%, 14%)
+- Teksti: Vaalea siniharmaa hsl(210, 46%, 95%)
+
+### Kira
+- Taustaväri: Valkoinen hsl(0, 0%, 100%)
+- Teksti: Tumma siniharmaa hsl(217, 19%, 35%)
+
+
+Kommentteja tekstien väreihin:
+
+1. "Verified Graduate" käyttää samaa väriä kuin henkilön nimessä on käytetty, mutta 50% opacity määrittelyllä.
+2. Arvioinnit lainausmerkkien sisällä käyttävät myös samaa väriä, mutta 70% opacity määrittelyllä.
+  
