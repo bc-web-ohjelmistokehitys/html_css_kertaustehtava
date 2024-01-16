@@ -15,25 +15,22 @@ Suunnitelma on tehty seuraaville leveyksille:
 
 ## Käytetyt värit
 
-### Daniel
+### Daniel Clifford
 - Taustaväri: Violetti hsl(263, 55%, 52%)
 - Teksti: Vaalean harmaa hsl(0, 0%, 81%)
 
-### Jonathan
+### Jonathan Walters
 - Taustaväri: Tumma siniharmaa hsl(217, 19%, 35%)
 - Teksti: Vaalea siniharmaa hsl(210, 46%, 95%)
 
-### Jeanette
+### Jeanette Harmon ja Kira Whittle
 - Taustaväri: Valkoinen hsl(0, 0%, 100%)
 - Teksti: Tumma siniharmaa hsl(217, 19%, 35%)
   
-### Patrick
+### Patrick Abrams
 - Taustaväri: Tummansininen hsl(219, 29%, 14%)
-- Teksti: Vaalea siniharmaa hsl(210, 46%, 95%)
+- Teksti: Vaalean harmaa hsl(0, 0%, 81%)
 
-### Kira
-- Taustaväri: Valkoinen hsl(0, 0%, 100%)
-- Teksti: Tumma siniharmaa hsl(217, 19%, 35%)
 
 
 ### Huomiota tekstien väreistä:
