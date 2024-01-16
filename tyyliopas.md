@@ -8,7 +8,7 @@ Suunnitelma on tehty seuraaville leveyksille:
 
 ## Typographia
 
-### Font-määrittelyt
+### Käytetty fontti ja sen määrittelyt
 - Font size: 13px
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
